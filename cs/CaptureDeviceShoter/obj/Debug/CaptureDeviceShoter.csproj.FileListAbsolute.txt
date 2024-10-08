@@ -1,0 +1,15 @@
+C:\Users\symond\Documents\GitHub\CaptureDeviceShoter\cs\CaptureDeviceShoter\obj\Debug\CaptureDeviceShoter.csproj.AssemblyReference.cache
+C:\Users\symond\Documents\GitHub\CaptureDeviceShoter\cs\CaptureDeviceShoter\obj\Debug\App.g.cs
+C:\Users\symond\Documents\GitHub\CaptureDeviceShoter\cs\CaptureDeviceShoter\obj\Debug\CaptureDeviceShoter_MarkupCompile.cache
+C:\Users\symond\Documents\GitHub\CaptureDeviceShoter\cs\CaptureDeviceShoter\bin\Debug\CaptureDeviceShoter.exe.config
+C:\Users\symond\Documents\GitHub\CaptureDeviceShoter\cs\CaptureDeviceShoter\bin\Debug\CaptureDeviceShoter.exe
+C:\Users\symond\Documents\GitHub\CaptureDeviceShoter\cs\CaptureDeviceShoter\bin\Debug\CaptureDeviceShoter.pdb
+C:\Users\symond\Documents\GitHub\CaptureDeviceShoter\cs\CaptureDeviceShoter\obj\Debug\MainWindow.g.cs
+C:\Users\symond\Documents\GitHub\CaptureDeviceShoter\cs\CaptureDeviceShoter\obj\Debug\CaptureDeviceShoter_MarkupCompile.lref
+C:\Users\symond\Documents\GitHub\CaptureDeviceShoter\cs\CaptureDeviceShoter\obj\Debug\MainWindow.baml
+C:\Users\symond\Documents\GitHub\CaptureDeviceShoter\cs\CaptureDeviceShoter\obj\Debug\CaptureDeviceShoter.g.resources
+C:\Users\symond\Documents\GitHub\CaptureDeviceShoter\cs\CaptureDeviceShoter\obj\Debug\CaptureDeviceShoter.Properties.Resources.resources
+C:\Users\symond\Documents\GitHub\CaptureDeviceShoter\cs\CaptureDeviceShoter\obj\Debug\CaptureDeviceShoter.csproj.GenerateResource.cache
+C:\Users\symond\Documents\GitHub\CaptureDeviceShoter\cs\CaptureDeviceShoter\obj\Debug\CaptureDeviceShoter.csproj.CoreCompileInputs.cache
+C:\Users\symond\Documents\GitHub\CaptureDeviceShoter\cs\CaptureDeviceShoter\obj\Debug\CaptureDeviceShoter.exe
+C:\Users\symond\Documents\GitHub\CaptureDeviceShoter\cs\CaptureDeviceShoter\obj\Debug\CaptureDeviceShoter.pdb

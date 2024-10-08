@@ -1,0 +1,40 @@
+﻿<Window x:Class="CaptureDeviceShoter.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CaptureDeviceShoter"
+        mc:Ignorable="d"
+        Title="MainWindow"
+        ResizeMode="NoResize"
+        SizeToContent="WidthAndHeight">
+    <DockPanel>
+        <StatusBar DockPanel.Dock="Bottom">
+            <StatusBar.ItemsPanel>
+                <ItemsPanelTemplate>
+                    <Grid>
+                    </Grid>
+                </ItemsPanelTemplate>
+            </StatusBar.ItemsPanel>
+            <TextBlock x:Name="CopyNotification"/>
+        </StatusBar>
+        <StackPanel Margin="10,5,10,5">
+            <StackPanel Orientation="Horizontal" Margin="0,0,0,5">
+                <Label Content="デバイス名" Width="80" Margin="0,1,10,0"/>
+                <ComboBox x:Name="DeviceList" DockPanel.Dock="Top" Width="200" Height="30"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Margin="0,0,0,5">
+                <Label Content="プリセット" Width="80" Margin="0,1,10,0"/>
+                <ComboBox x:Name="PresetList" DockPanel.Dock="Top" Width="165" Height="30"/>
+                <Button x:Name="AddPresetButton" Content="追加" Margin="5,0,0,0" Width="30"/>
+            </StackPanel>
+            <Border BorderThickness="1">
+                <Border.BorderBrush>
+                    <SolidColorBrush Color="{DynamicResource {x:Static SystemColors.AppWorkspaceColorKey}}"/>
+                </Border.BorderBrush>
+                <Image Name="TakedImg" Height="163.125" Stretch="Fill" HorizontalAlignment="Center" VerticalAlignment="Center" />
+            </Border>
+            <Button x:Name="ShotButton" Content="スクショ" Margin="0,10,0,0"/>
+        </StackPanel>
+    </DockPanel>
+</Window>
